@@ -53,8 +53,9 @@ The analysis notebook presents a range of statistical summaries and visual insig
 - **Top Skills:** Highlights which AI skills are in highest demand.  
 - **Salary Distribution:** Reveals pay variation across AI roles.  
 - **Hiring Companies:** Identifies leading employers in the AI job market.
+
 ![Dash Board](/images/top%203)
-### 💡 overview
+### 💡 Plot overview
 - The top 3 most frequent skills for **Data Analyst** roles are displayed as trends over time.  
 - Helps identify **seasonal demand** or **emerging technologies** in analytics.  
 - These insights can guide upskilling and job market strategies.
@@ -90,12 +91,12 @@ cd AI-Job-Market-Analysis
 
 ### Install dependencies
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 
 ### Launch Jupyter Notebook
 
-jupyter notebook
+- jupyter notebook
 
 
 ### Open and run the notebooks
