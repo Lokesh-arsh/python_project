@@ -78,7 +78,7 @@ The analysis notebook presents a range of statistical summaries and visual insig
 ### ⚙️ How to Run Locally
 ---
 Clone this repository - 
-git clone https://github.com/your-username/AI-Job-Market-Analysis.git.
+git clone https://github.com/Lokesh-arsh/python_project.git.
 
 cd AI-Job-Market-Analysis
 
